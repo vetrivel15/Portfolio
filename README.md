@@ -1,24 +1,43 @@
 # 👋 Hi, I'm Vetri Vel
 
-🔹 **10+ years in Software Development | Industrial Automation**  
-🔹 **Golang | C++ | System Architecture | EtherCAT | PLC/SCADA**
+🔧 Software Engineer | 🌐 Industrial Automation Specialist
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software engineer transitioning toward a **Solution Architect** role, blending deep domain knowledge in **industrial automation** with modern software practices. With hands-on experience in **PLC systems**, **EtherCAT communication**, and **other Industrial communications**, I'm currently focusing on system design, architectural thinking, and high-performance applications in **Go** and **C++**.
+I'm a passionate software engineer blending deep domain knowledge in **industrial automation** with modern software practices.
 
-- 🔧 Enjoy designing and debugging low-level systems and high-level architecture
-- 📈 Interested in scalable system design, protocol design, and tech leadership
+With over 10 years of experience in **software development**, **real-time control systems**, and **PLC engineering**, I specialize in building **high-performance, modular, and scalable applications** using **C++**, **Go**, and **Python**.
 
+- 🔧 Enjoy designing and debugging low-level systems and high-level architecture.
+- 📈 Interested in scalable system design, protocol design, and tech leadership.
 ---
 
-## 🛠 Skills
-- Programming: `Go`, `C++`, `Python`, `Structured text`
-- Tools: `Git`, `Wireshark`, `VSCode`
-- Architecture: `SysML`, `UML`
-- Communication Protocols: `EtherCAT`, `Modbus`
+**Languages**:  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)   
+![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
+![IEC 61131-3 ST](https://img.shields.io/badge/-Structured%20Text%20(IEC%2061131--3)-006600?logo=plc&logoColor=white)
+
+**Tools & Frameworks**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Fyne](https://img.shields.io/badge/-Fyne-00A7E0?logo=go&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+![Snapcraft](https://img.shields.io/badge/-Snapcraft-82BEA0?logo=snapcraft&logoColor=white)  
+![Makefile](https://img.shields.io/badge/-Makefiles-064F8C?logo=gnu&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+
+**Domains**:  
+- Real-Time Industrial Protocols (EtherCAT, Modbus)  
+- Software Architecture using UML/SysML  
+- PLC Programming, Library and Function Block development (IEC 61131-3 Structured Text)  
+- Linux Snap Development  
+- Desktop App Development  
+- Linux Tools & Networking  
+- IIoT (Industrial IoT)
 
 ---
 
