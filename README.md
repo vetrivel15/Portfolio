@@ -25,10 +25,10 @@ With over 10 years of experience in **software development**, **real-time contro
 **Domains**:  
 - Real-Time Industrial Protocols (EtherCAT, Modbus)  
 - Software Architecture using UML/SysML  
-- PLC Programming, Library and Function Block development (IEC 61131-3 Structured Text)  
 - Linux Snap Development  
 - Desktop App Development  
 - Linux Tools & Networking  
+- PLC Programming, Library and Function Block development (IEC 61131-3 Structured Text)
 - IIoT (Industrial IoT)
 
 ---
