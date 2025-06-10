@@ -11,7 +11,7 @@ I'm a passionate software engineer blending deep domain knowledge in **industria
 With over 10 years of experience in **software development**, **real-time control systems**, and **PLC engineering**, I specialize in building **high-performance, modular, and scalable applications** using **C++**, **Go**, and **Python**.
 
 - 🔧 Enjoy designing and debugging low-level systems and high-level architecture.
-- 📈 Interested in scalable system design, protocol design, and tech leadership.
+- 📈 Interested in scalable system design and tech leadership.
 ---
 
 ## 🛠️ Tech Stack
