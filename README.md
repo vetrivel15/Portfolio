@@ -12,6 +12,7 @@ With over 10 years of experience in **software development**, **real-time contro
 
 - 🔧 Enjoy designing and debugging low-level systems and high-level architecture.
 - 📈 Interested in scalable system design and tech leadership.
+
 ---
 
 ## 🛠️ Tech Stack
